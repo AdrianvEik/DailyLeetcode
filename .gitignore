@@ -7,5 +7,3 @@
 # Allow specific solution folders
 !Day*/
 
-# Ignore files inside these folders unless explicitly included
-Day*/*
