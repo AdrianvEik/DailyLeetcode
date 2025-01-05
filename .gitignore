@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow Git to track .gitignore itself
+!.gitignore
+
+# Allow specific solution folders
+!Day*/
+
+# Ignore files inside these folders unless explicitly included
+Day*/*
